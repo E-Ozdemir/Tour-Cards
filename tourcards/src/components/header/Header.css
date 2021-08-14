@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 
-h3{
+.big-title{
     font-family: 'Amatic SC', cursive;
-    font-size: 30px;
+    font-size: 40px;
 }
